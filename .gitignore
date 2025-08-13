@@ -1,0 +1,17 @@
+# Ignore real secret files (replace with your real filenames)
+mongodb-secret.yaml
+*.secret.yaml
+*-secret.yaml
+
+# Ignore environment files
+*.env
+
+# Ignore editor settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
